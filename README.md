@@ -89,14 +89,7 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
----
 
-## Deployment
-
-This Next.js application is optimized for deployment on Vercel.
-Click below to deploy your own instance with a single click:
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/mohamedwael201193/vmoca-port-d-app)
 
 ---
 
@@ -106,5 +99,4 @@ Distributed under the **MIT License**.
 See `LICENSE` for more information.
 
 
-هل تحب أن أعمل لك نسخة **README.md** جاهزة للنسخ واللصق** (بكل التنسيقات والصور واللينكات)؟
 ```
