@@ -1,0 +1,54 @@
+{
+  "stamps": [
+    {
+      "id": "moca-nft-holder",
+      "title": "Moca NFT Holder",
+      "description": "Verified holder of a Moca Network NFT",
+      "icon": "🎨",
+      "category": "Web3",
+      "points": 50,
+      "requirements": "Hold at least one Moca NFT in your wallet",
+      "verificationMethod": "smart-contract"
+    },
+    {
+      "id": "github-contributor",
+      "title": "GitHub Contributor",
+      "description": "Active developer with 100+ commits",
+      "icon": "💻",
+      "category": "Web2",
+      "points": 30,
+      "requirements": "100+ commits on GitHub (verified via zkTLS)",
+      "verificationMethod": "zktls"
+    },
+    {
+      "id": "dao-governance",
+      "title": "DAO Governance Participant",
+      "description": "Active participant in DAO governance",
+      "icon": "🗳️",
+      "category": "Web3",
+      "points": 40,
+      "requirements": "Voted in at least 3 DAO proposals",
+      "verificationMethod": "api"
+    },
+    {
+      "id": "early-adopter",
+      "title": "Early Adopter",
+      "description": "One of the first 1000 MocaPort users",
+      "icon": "🚀",
+      "category": "Platform",
+      "points": 25,
+      "requirements": "Register within first 1000 users",
+      "verificationMethod": "platform"
+    },
+    {
+      "id": "social-verified",
+      "title": "Social Media Verified",
+      "description": "Verified social media presence",
+      "icon": "✅",
+      "category": "Web2",
+      "points": 20,
+      "requirements": "Verified Twitter/X account with 100+ followers",
+      "verificationMethod": "zktls"
+    }
+  ]
+}
